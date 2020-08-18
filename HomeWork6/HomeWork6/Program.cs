@@ -1,13 +1,36 @@
 ﻿using System;
+using System.IO;
 
 namespace HomeWork6
 {
     public delegate double Fun(double x);
-    public delegate double FunTwo(double x, double y);
+    public delegate double FunTwo(double x, double y); 
     class Program
     {
+        /*
+                Володимир Задерецький
+                   1. Изменить программу вывода таблицы функции так, чтобы можно было передавать функции типа double (double, double). 
+                      Продемонстрировать работу на функции с функцией a*x^2 и функцией a*sin(x).
+                   2.Модифицировать программу нахождения минимума функции так, чтобы можно было передавать функцию в виде делегата. 
+                        б) *Переделать функцию Load, чтобы она возвращала массив считанных значений.
+                        Пусть она возвращает минимум через параметр (с использованием модификатора out). 
+         */
 
-            public static void Table(Fun F, double x, double b)
+
+
+
+
+        public static double F(double x)
+        {
+            return x * x - 50 * x + 10;
+        }
+
+
+
+
+
+
+        public static void Table(Fun F, double x, double b)
             {
                 Console.WriteLine("----- X ----- Y -----");
                 while (x <= b)
@@ -50,6 +73,12 @@ namespace HomeWork6
             Table(MyFunc, -2, 3, 2);
             Console.WriteLine("Таблица функции y*Sin(x):");
             Table(MyFuncSin, -2, 3, 2);
+
+            Console.WriteLine("Минимальное значение функции F(x):");
+            MinFun.SaveFunc("data.bin", F, -100, 100, 0.5);
+            double min;
+            MinFun.Load("data.bin",out min);
+            Console.WriteLine(min.ToString());
         }
         
     }
