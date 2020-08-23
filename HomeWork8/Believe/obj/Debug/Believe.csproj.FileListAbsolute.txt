@@ -1,0 +1,10 @@
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\bin\Debug\Believe.exe.config
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\bin\Debug\Believe.exe
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\bin\Debug\Believe.pdb
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.csprojAssemblyReference.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.Form1.resources
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.Properties.Resources.resources
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.csproj.GenerateResource.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.csproj.CoreCompileInputs.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.exe
+E:\MyFiles\Study\GeekBrains\HomeWork8\Believe\obj\Debug\Believe.pdb

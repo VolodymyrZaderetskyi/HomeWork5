@@ -1,0 +1,10 @@
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe.config
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\bin\Debug\HomeWork8.exe
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\bin\Debug\HomeWork8.pdb
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csprojAssemblyReference.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Form1.resources
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.Properties.Resources.resources
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csproj.GenerateResource.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.csproj.CoreCompileInputs.cache
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.exe
+E:\MyFiles\Study\GeekBrains\HomeWork8\HomeWork8\obj\Debug\HomeWork8.pdb
