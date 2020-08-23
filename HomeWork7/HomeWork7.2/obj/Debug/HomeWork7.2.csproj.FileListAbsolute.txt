@@ -1,0 +1,10 @@
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\bin\Debug\HomeWork7.2.exe.config
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\bin\Debug\HomeWork7.2.exe
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\bin\Debug\HomeWork7.2.pdb
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7.2.csprojAssemblyReference.cache
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7._2.Form1.resources
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7._2.Properties.Resources.resources
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7.2.csproj.GenerateResource.cache
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7.2.csproj.CoreCompileInputs.cache
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7.2.exe
+E:\MyFiles\Study\GeekBrains\HomeWork7\HomeWork7.2\obj\Debug\HomeWork7.2.pdb
